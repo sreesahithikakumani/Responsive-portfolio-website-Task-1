@@ -140,11 +140,3 @@ Allows users to connect through a contact form or social media links.
 **Kakumani Sree Sahithi**
 
 ---
-
-## 📝 License
-
-This project is open source and available for educational purposes.
-
----
-
-**Made with ❤️ | Last Updated: 2026**
